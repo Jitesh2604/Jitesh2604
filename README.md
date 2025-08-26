@@ -4,6 +4,11 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Frontend+Developer;Backend+Developer;Full+Satack+Developer;API+Developer" alt="Typing SVG" /></a>
 </p>
 
+## <picture><img src = "https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/about_me.gif" width = 50px></picture> **About me**
+<picture> <img align="right" src="https://media.giphy.com/media/HW3T1wWW3z2Ff2cpXO/giphy.gif"></picture>
+
+<br>
+
 
 <!-- # Hi, I'm Jitesh 👨‍💻  
 Backend Developer Intern @ InturnX | Full-Stack Web Developer 🚀  

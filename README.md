@@ -9,6 +9,21 @@
 
 <br>
 
+- 👋 Hi, I’m @JiteshPal
+
+- 💻 I’m a Full Stack Developer passionate  about building end-to-end web applications.
+
+- 🌱 I’m currently learning and exploring Next.js, Node.js, and MongoDB to strengthen my development skills.
+
+- 🤝 I’m looking to collaborate on MERN stack projects and open-source contributions.
+
+- 📫 How to reach me: LinkedIn
+ | Portfolio
+ | Email
+
+- 📝 I share my projects and learnings on GitHub and write about development practices.
+
+- 🚀 Always curious and learning new technologies to become better than yesterday.
 
 <!-- # Hi, I'm Jitesh 👨‍💻  
 Backend Developer Intern @ InturnX | Full-Stack Web Developer 🚀  

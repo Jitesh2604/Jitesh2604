@@ -5,7 +5,7 @@
 </p>
 
 ## <picture><img src = "https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/about_me.gif" width = 50px></picture> **About me**
-<picture> <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm0yZ2tsNW5ra2s3eGJqZzZxMWE0ZGd5YmYwYjk0dHFpMzByamRydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zgduo4kWRRDVK/giphy.gif"></picture>
+<picture> <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2doYzg2djg2YXlmdzFyNHdsaG9xM3YyZzIzcDRyNGtuM2w5czFrZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5EOYACH9SWWA45b4Bp/giphy.gif"></picture>
 
 <br>
 

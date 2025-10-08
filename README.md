@@ -25,46 +25,115 @@
 
 - 🚀 Always curious and learning new technologies to become better than yesterday.
 
-<!-- # Hi, I'm Jitesh 👨‍💻  
-Backend Developer Intern @ InturnX | Full-Stack Web Developer 🚀  
+<br>
 
-![Profile views](https://komarev.com/ghpvc/?username=jiteshpal&color=blue&style=flat-square)  
+# 💻 Tech Stack
 
----
+## 🧑‍💻 Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-hotpink.svg?style=plastic&logo=SASS&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white)
+![ChadCN UI](https://img.shields.io/badge/ChadCN_UI-%23000000.svg?style=plastic&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=plastic&logo=nextdotjs&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=plastic&logo=axios&logoColor=white)
+![EmailJS](https://img.shields.io/badge/EmailJS-%23FF5C83.svg?style=plastic&logoColor=white)
 
-## 🔥 About Me  
-- 🎓 Currently pursuing **Full-Stack Web Development** at **Masai School** (2-year intensive bootcamp).  
-- 💻 Working as a **Backend Developer Intern** at **InturnX**, building **authentication systems** and **backend APIs**.  
-- 🚀 Passionate about building scalable applications with **Node.js, Express, MongoDB, and Next.js**.  
-- 🌱 Always learning new technologies and sharpening my problem-solving skills.  
+## 🧠 Backend & Tools
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB)
+![Strapi](https://img.shields.io/badge/Strapi-4945FF?style=plastic&logo=strapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 
----
+## 🧭 Other Skills
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=plastic&logo=netlify&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-%232C8EBB.svg?style=plastic&logo=yarn&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-%23000000.svg?style=plastic&logo=responsive&logoColor=white)
 
-## 🛠 Tech Stack  
-### Languages & Frameworks  
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,scss,react,nextjs,redux,nodejs,express,mongodb,git,github,vscode" />  
+<br
+# 📊 GitHub Stats:
 
----
+![](https://github-readme-stats.vercel.app/api?username=Jitesh2604&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Jitesh2604&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jitesh2604&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 📂 Featured Projects  
-🔹 **Movie Rating Website** – A responsive app to browse, rate, and review movies using **React, Redux, SCSS, APIs**.  
-🔹 **YouTube Clone** – Built with **React, Chakra UI, REST APIs**, including video playback, authentication & comments.  
-🔹 **Task Manager** – A **Next.js + Express.js** app with **Kanban board**, JWT authentication, and drag-and-drop tasks.  
-🔹 **E-commerce Website** – Full-stack app using **React, Strapi, SCSS**, with secure authentication and product management.  
+<br>
 
----
+### 🧠 Inspirational Programming Quote
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
 
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jiteshpal&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jiteshpal&layout=compact&theme=radical)  
 
----
+<br>
 
-## 🌐 Connect with Me  
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://your-portfolio-link.com)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Jitesh2604&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
----
+<br>
 
-✨ *“Code, Learn, Build, Repeat.”* ✨   -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  My GitHub Contribution
+</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jitesh2604&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jitesh2604&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<br>
+
+<h2>🌐 Socials</h2>
+
+<p>
+  <a href="https://www.linkedin.com/in/jitesh2604" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:jitesh2604@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://jitesh.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="tel:+919540045400">
+    <img src="https://img.shields.io/badge/Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Contact Number"/>
+  </a>
+</p>
+<br>
+
+<h2 align="center">💼 Open to Work & Opportunities</h2>
+
+<p align="center">
+  I'm looking for meaningful <b>work opportunities, internships, or collaborations</b> where I can grow and contribute. <br><br>
+  📬 <b>Let's connect:</b>
+</p>
+<br>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jitesh2604" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:jitesh2604@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://jitesh.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+</p>
+<br>
+
+## 👀 Profile Views
+<div>
+  <img src="https://komarev.com/ghpvc/?username=Jitesh2604&color=blue&style=for-the-badge" alt="Profile Views" />
+</div>
+
+
